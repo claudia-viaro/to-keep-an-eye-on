@@ -6,5 +6,9 @@ repositories/libraries/conferences/schools of interest (ML, DL, DS, Stats in gen
 [Geometric Data Processing Group](http://groups.csail.mit.edu/gdpgroup/publications.html)
 
 
-###nice blogs
+### nice blogs
 [DrugDiscovery.NET - AI in Drug Discovery](http://www.drugdiscovery.net/)
+
+
+### nice podcasts
+[Oxford Statistics Podcasts](https://podcasts.ox.ac.uk/series/department-statistics)
