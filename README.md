@@ -9,6 +9,7 @@ repositories/libraries/conferences/schools of interest (ML, DL, DS, Stats in gen
 
 ### nice blogs
 [DrugDiscovery.NET - AI in Drug Discovery](http://www.drugdiscovery.net/)
+[Machine Learning for Drug Discovery in a Nutshell](https://blog.atomwise.com/machine-learning-for-drug-discovery-in-a-nutshell-part-i?utm_campaign=We%20Give%20Medicinal%20Chemists%20Super%20Powers&utm_content=211563595&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3357332)
 
 
 ### nice podcasts
