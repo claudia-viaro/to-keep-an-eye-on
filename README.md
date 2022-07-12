@@ -1,4 +1,4 @@
-# Some material to keep an eye on
+# Some material I find interesting to have a look at, at some point
 repositories/libraries/conferences/schools of interest (ML, DL, DS, Stats in general)
 
 ### nice publications from research groups
@@ -14,3 +14,6 @@ repositories/libraries/conferences/schools of interest (ML, DL, DS, Stats in gen
 
 ### nice podcasts
 [Oxford Statistics Podcasts](https://podcasts.ox.ac.uk/series/department-statistics)
+
+## hubs
+[Geneve Digital Health Hub](https://gdhub.org/)
